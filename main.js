@@ -26,3 +26,5 @@ if (A == B) {
 } else {
     alert("Это обычный билет!!!");
 }
+//task3
+let some_number = Range(1,101)
